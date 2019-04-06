@@ -1,0 +1,10 @@
+freertos.c:256:6:StartDefaultTask	8	static
+freertos.c:414:6:SetPoint	8	static
+freertos.c:111:6:peripheralPrintf	84	static
+freertos.c:331:6:StartAccRead	48	static
+freertos.c:382:6:StartTempRead	32	static
+freertos.c:182:6:MX_FREERTOS_Init	152	static
+freertos.c:437:6:PID	24	static
+freertos.c:280:6:StartPID	40	static
+freertos.c:482:6:STD	56	static
+freertos.c:307:6:CalcSTD	32	static
