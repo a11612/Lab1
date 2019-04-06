@@ -1,0 +1,47 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>tp_li1_v1.pro.user</file>
+        <file>Light.png</file>
+        <file>Temperature.png</file>
+        <file>home.png</file>
+        <file>WashingMachineView.qml</file>
+        <file>StylePicker.qml</file>
+        <file>PieMenuDefaultStyle.qml</file>
+        <file>PieMenuControlView.qml</file>
+        <file>FlickableMoreIndicator.qml</file>
+        <file>CustomizerSwitch.qml</file>
+        <file>CustomizerSlider.qml</file>
+        <file>CustomizerLabel.qml</file>
+        <file>ControlViewToolbar.qml</file>
+        <file>ControlView.qml</file>
+        <file>ControlLabel.qml</file>
+        <file>CircularGaugeLightStyle.qml</file>
+        <file>CircularGaugeDefaultStyle.qml</file>
+        <file>CircularGaugeDarkStyle.qml</file>
+        <file>BlackButtonStyle.qml</file>
+        <file>BlackButtonBackground.qml</file>
+        <file>PieMenuDarkStyle.qml</file>
+        <file>icon-settings.png</file>
+        <file>icon-go.png</file>
+        <file>icon-back.png</file>
+        <file>Windows.png</file>
+        <file>WashingMachine.png</file>
+        <file>Sound.png</file>
+        <file>Settings.png</file>
+        <file>Power.png</file>
+        <file>Camera.png</file>
+        <file>Outside.png</file>
+        <file>LightView.qml</file>
+        <file>images/switch-handle.png</file>
+        <file>images/on-text.png</file>
+        <file>images/on-state.png</file>
+        <file>images/off-text.png</file>
+        <file>images/off-state.png</file>
+        <file>images/background.png</file>
+        <file>SlideSwitch.qml</file>
+        <file>Background.qml</file>
+        <file>AANAOMEXER.qml</file>
+        <file>Temperature.qml</file>
+    </qresource>
+</RCC>
